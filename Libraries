@@ -1,0 +1,8 @@
+- **Tkinter**: For GUI.
+- **PIL (Python Imaging Library)**: For image processing.
+- **threading**: For concurrent tasks.
+- **speech_recognition**: For capturing voice input.
+- **pyttsx3**: For text-to-speech conversion.
+- **OpenAI's API**: For natural language processing.
+- **webbrowser**: For web interactions.
+- **subprocess**: For opening local applications.
